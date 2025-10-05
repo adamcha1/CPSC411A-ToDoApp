@@ -25,6 +25,10 @@ The User Interface handles edge cases and supports persistence for configuration
 
 <img width="354" height="791" alt="TodoListScreenshot" src="https://github.com/user-attachments/assets/a52dcbb7-749e-42f4-8745-efc5d8c6ecfe" />
 
+<img width="656" height="293" alt="Screenshot3-Persistence" src="https://github.com/user-attachments/assets/da6254ae-626e-413f-8a59-b3078a0636a8" />
+
+<img width="359" height="784" alt="Screenshot4-Toast(NoInput)" src="https://github.com/user-attachments/assets/695b03fa-8382-487d-afbe-cb97c3d1e921" />
+
 # Concepts Used
 
 1. *Data Classes*
